@@ -26,7 +26,5 @@ public class Data {
         return DataArraylist;
     }
 
-    public static void setDataArraylist(ArrayList<Data> dataArraylist) {
-        DataArraylist = dataArraylist;
-    }
+
 }
