@@ -39,5 +39,3 @@ The above two screenshots shows how we utilized saga pattern design within our p
 | Home Page | Home Page |Details |
 | ----------- | ----------- | ----------- | 
 |![Simulator Screen Shot - iPhone 13 - 2023-10-06 at 22 35 56](https://github.com/AbdulmalekAlshugaa/E-Commerce-App/assets/33663456/dd3eae8e-6bca-44e5-9364-15017a232640)|![Simulator Screen Shot - iPhone 13 - 2023-10-05 at 13 32 31](https://github.com/AbdulmalekAlshugaa/E-Commerce-App/assets/33663456/0de091ab-d45c-4e58-8dc0-7cf3d0e964d1)| ![Simulator Screen Shot - iPhone 13 - 2023-10-05 at 13 32 35](https://github.com/AbdulmalekAlshugaa/E-Commerce-App/assets/33663456/a54e3bd8-2a69-4eb5-a6c7-b087b46bc7d0)
-
-MVP is a simple login and sign up app that allows you as a developer to understand how components in MVP works together to perform certain tasks. The login page is a portal for each and every application which has used here to demonstrate how MVP is worked
